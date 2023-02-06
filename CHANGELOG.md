@@ -1,3 +1,6 @@
+02/05/2023
+- Uploaded the Homework3.cs file.
+
 01/29/2023
 - Uploaded the Homework2Q1.cs, Homework2Q2.cs, and Homework2Q3.cs files.
 
