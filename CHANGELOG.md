@@ -1,3 +1,6 @@
+03/06/2023
+- Uploaded the Homework6.cs file.
+
 02/19/2023
 - Uploaded the Homework5.cs file.
 
