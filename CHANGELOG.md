@@ -1,6 +1,9 @@
 03/27/2023
 - Uploaded the Homework8.cs file.
 
+03/20/2023
+- Uploaded the PaperRockScissors.cs file.
+
 03/19/2023
 - Uploaded the Homework7.cs file.
 
